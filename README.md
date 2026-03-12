@@ -9,33 +9,34 @@ It serves as a structured record of my learning journey and progress in Java dev
 
 <h2>Java Fundamentals</h2>
 <p>
-------Variables and Data Types
-------Operators and expressions
-------Control Flow 
-------Loops
-------Programming Concepts
-------Methods and Functions
+<br>--Jshell
+<br>--Variables and Data Types
+<br>--Operators and expressions
+<br>--Control Flow 
+<br>--Loops
+<br>--Programming Concepts
+<br>--Methods and Functions
 </p>
 ===========================================
 <h2>Object-Oriented Programming concepts</h2>
 <p>
------Classes and Objects
------Encapsulation
------Inheritance
------Polymorphism
------Abstraction
------Interfaces
+<br>--Classes and Objects
+<br>--Encapsulation
+<br>--Inheritance
+<br>--Polymorphism
+<br>--Abstraction
+<br>--Interfaces
 </p>
 <h2>Advanced Java Concepts</h2>
 <p>
------Arrays & ArrayList
------Lists, Iterators
------Autoboxing
------LinkedList, Enum
------Java Generics
------Nested Classes
-          local types and anonumous classes
------Java Lambdas   
-            Expressions, interface and method reference
+<br>--Arrays & ArrayList
+<br>--Lists, Iterators
+<br>--Autoboxing
+<br>--LinkedList, Enum
+<br>--Java Generics
+<br>--Nested Classes
+<br>     local types and anonumous classes
+<br>--Java Lambdas   
+<br>     Expressions, interface and method reference
 </p>
 
