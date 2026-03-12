@@ -5,7 +5,6 @@ It serves as a structured record of my learning journey and progress in Java dev
 
 <br>
 <h1>Topics Covered</h1>
-<br>Jshell
 
 <h2>Java Fundamentals</h2>
 <p>
@@ -17,7 +16,6 @@ It serves as a structured record of my learning journey and progress in Java dev
 <br>--Programming Concepts
 <br>--Methods and Functions
 </p>
-===========================================
 <h2>Object-Oriented Programming concepts</h2>
 <p>
 <br>--Classes and Objects
