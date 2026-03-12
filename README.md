@@ -4,26 +4,30 @@ The purpose of this repository is to strengthen my understanding of core Java, o
 It serves as a structured record of my learning journey and progress in Java development.</p>
 
 <br>
-Topics Covered
-----Jshell
+<h1>Topics Covered</h1>
+<br>Jshell
 
-Java Fundamentals
+<h2>Java Fundamentals</h2>
+<p>
 ------Variables and Data Types
 ------Operators and expressions
 ------Control Flow 
 ------Loops
 ------Programming Concepts
 ------Methods and Functions
+</p>
 ===========================================
-Object-Oriented Programming concepts
+<h2>Object-Oriented Programming concepts</h2>
+<p>
 -----Classes and Objects
 -----Encapsulation
 -----Inheritance
 -----Polymorphism
 -----Abstraction
 -----Interfaces
-
-Advanced Java Concepts
+</p>
+<h2>Advanced Java Concepts</h2>
+<p>
 -----Arrays & ArrayList
 -----Lists, Iterators
 -----Autoboxing
@@ -33,3 +37,5 @@ Advanced Java Concepts
           local types and anonumous classes
 -----Java Lambdas   
             Expressions, interface and method reference
+</p>
+
